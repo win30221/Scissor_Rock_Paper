@@ -1,0 +1,34 @@
+﻿KEY,English,Chinese
+Language,English,中文
+LogoTitle,ScissorRockPaper,剪刀石頭布
+Setting,Setting,設定
+Music,Music,音樂
+Sound,Sound,音效
+Currently,Currently,目前
+Credit,Credit,製作團
+Local,Local,我的分數
+World,World,世界排名
+Top100,Top100,最強100
+TimeLeft,TimeLeft：,時間剩餘：
+Win,You Win！,你贏了！
+Lose,You Lose！,你輸了！
+Draw,Draw Game！,平手！
+WriteYourName,Write your name：,寫下你的名字：
+Submit,Submit,送出
+Loading,Loading,讀取中
+NoData,No Data,無資料
+PleaseConnectNetwork,Please Connect Network,請連接網路
+Warning,Please Connect Network to upload your score,請連接網路來上傳您的成績
+Combo,Combo：,連擊：
+Rule1,I'll use Scissor,我會出剪刀
+Rule2,I'll use Rock,我會出石頭
+Rule3,I'll use Paper,我會出布
+Rule4,I'll not use Scissor,我不會出剪刀
+Rule5,I'll not use Rock,我不會出石頭
+Rule6,I'll not use Paper,我不會出布
+Rule7,I'll not use Scissor,我會出剪刀才怪
+Rule8,I'll not use Rock,我會出石頭才怪
+Rule9,I'll not use Paper,我會出布才怪
+Rule10,I'll use Scissor,我不會出剪刀才怪
+Rule11,I'll use Rock,我不會出石頭才怪
+Rule12,I'll use Paper,我不會出布才怪
